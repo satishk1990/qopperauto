@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="29948" started-at="2019-12-01T09:01:43Z" finished-at="2019-12-01T09:02:13Z">
+  <suite name="Default suite" duration-ms="27073" started-at="2019-12-01T09:17:42Z" finished-at="2019-12-01T09:18:09Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="29948" started-at="2019-12-01T09:01:43Z" finished-at="2019-12-01T09:02:13Z">
+    <test name="Default test" duration-ms="27073" started-at="2019-12-01T09:17:42Z" finished-at="2019-12-01T09:18:09Z">
       <class name="com.qopper.testcases.LoginPage">
-        <test-method status="PASS" signature="LounchBrowser()[pri:0, instance:com.qopper.testcases.LoginPage@4501b7af]" name="LounchBrowser" is-config="true" duration-ms="11230" started-at="2019-12-01T09:01:43Z" finished-at="2019-12-01T09:01:54Z">
+        <test-method status="PASS" signature="LounchBrowser()[pri:0, instance:com.qopper.testcases.LoginPage@4501b7af]" name="LounchBrowser" is-config="true" duration-ms="9952" started-at="2019-12-01T09:17:42Z" finished-at="2019-12-01T09:17:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LounchBrowser -->
-        <test-method status="PASS" signature="loginSuccessful()[pri:1, instance:com.qopper.testcases.LoginPage@4501b7af]" name="loginSuccessful" duration-ms="4374" started-at="2019-12-01T09:01:54Z" finished-at="2019-12-01T09:01:58Z">
+        <test-method status="PASS" signature="loginSuccessful()[pri:1, instance:com.qopper.testcases.LoginPage@4501b7af]" name="loginSuccessful" duration-ms="4528" started-at="2019-12-01T09:17:52Z" finished-at="2019-12-01T09:17:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginSuccessful -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qopper.testcases.LoginPage@4501b7af]" name="closeBrowser" is-config="true" duration-ms="201" started-at="2019-12-01T09:01:58Z" finished-at="2019-12-01T09:01:58Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qopper.testcases.LoginPage@4501b7af]" name="closeBrowser" is-config="true" duration-ms="180" started-at="2019-12-01T09:17:56Z" finished-at="2019-12-01T09:17:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="LounchBrowser()[pri:0, instance:com.qopper.testcases.LoginPage@4501b7af]" name="LounchBrowser" is-config="true" duration-ms="11247" started-at="2019-12-01T09:01:58Z" finished-at="2019-12-01T09:02:10Z">
+        <test-method status="PASS" signature="LounchBrowser()[pri:0, instance:com.qopper.testcases.LoginPage@4501b7af]" name="LounchBrowser" is-config="true" duration-ms="9606" started-at="2019-12-01T09:17:57Z" finished-at="2019-12-01T09:18:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LounchBrowser -->
-        <test-method status="PASS" signature="loginWithWrongPassword()[pri:2, instance:com.qopper.testcases.LoginPage@4501b7af]" name="loginWithWrongPassword" duration-ms="2628" started-at="2019-12-01T09:02:10Z" finished-at="2019-12-01T09:02:12Z">
+        <test-method status="PASS" signature="loginWithWrongPassword()[pri:2, instance:com.qopper.testcases.LoginPage@4501b7af]" name="loginWithWrongPassword" duration-ms="2661" started-at="2019-12-01T09:18:06Z" finished-at="2019-12-01T09:18:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginWithWrongPassword -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qopper.testcases.LoginPage@4501b7af]" name="closeBrowser" is-config="true" duration-ms="242" started-at="2019-12-01T09:02:12Z" finished-at="2019-12-01T09:02:13Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qopper.testcases.LoginPage@4501b7af]" name="closeBrowser" is-config="true" duration-ms="118" started-at="2019-12-01T09:18:09Z" finished-at="2019-12-01T09:18:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
