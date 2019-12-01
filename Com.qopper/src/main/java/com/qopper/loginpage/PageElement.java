@@ -5,8 +5,8 @@ import org.openqa.selenium.WebElement;
 
 public class PageElement {
 
-	static By username =By.xpath("//*[@id=alias]");
-	static By password =By.xpath("//*[@id=password]");
-	static By loginbtm =By.xpath("//*[@type=submit]");
-	
+	static By username =By.xpath("//*[@id='alias']");
+	static By password =By.xpath("//*[@id='password']");
+	static By loginbtm =By.xpath("//*[@type='submit']");
+	static By PasswrdValidation =By.xpath("//div[text()='Incorrect Alias or Password']");
 }

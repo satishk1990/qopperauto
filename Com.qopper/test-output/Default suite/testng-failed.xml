@@ -5,6 +5,7 @@
     <classes>
       <class name="com.qopper.testcases.LoginPage">
         <methods>
+          <include name="closeBrowser"/>
           <include name="LounchBrowser"/>
           <include name="loginSuccessful"/>
         </methods>

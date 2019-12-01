@@ -20,5 +20,18 @@ public class LoginMethods {
     	CommonActions.clickOnElement(driver, PageElement.loginbtm);
 
     }
+    public static String getPsswrdValidationMsg(WebDriver driver) {
+		return CommonActions.getText(driver, PageElement.PasswrdValidation);
+    	
+    	
+    }
+    
+    public static void login(String username, String password,WebDriver driver) throws InterruptedException {
+    	
+    	LoginMethods.enterUsername(driver, username);
+    	LoginMethods.enterPassword(driver, password);
+    	Thread.sleep(2000);
+    	LoginMethods.clickOnLoginBtn(driver);
+    }
 }
 
