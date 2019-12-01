@@ -1,0 +1,11 @@
+package com.qopper.logging;
+
+import org.apache.log4j.Logger;
+
+public class LogginSystem {
+	
+	public static Object logs() {
+	Logger log = Logger.getLogger(LogginSystem.class);
+	return log;
+	}
+}

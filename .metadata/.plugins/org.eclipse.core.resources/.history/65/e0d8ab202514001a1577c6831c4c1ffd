@@ -1,0 +1,5 @@
+package com.qopper.logging;
+
+public class LogginSystem {
+
+}
