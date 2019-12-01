@@ -1,0 +1,131 @@
+2019-11-30 18:52:24,890 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-11-30 18:55:21,142 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\QopperTestingnew\Com.qopper\pom.xml
+2019-11-30 18:55:22,126 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: qopper:Com.qopper:0.0.1-SNAPSHOT @ D:\QopperTestingnew\Com.qopper\pom.xml.
+2019-11-30 18:55:22,526 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Com.qopper/src/main/java
+2019-11-30 18:55:22,532 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Com.qopper/src/test/java
+2019-11-30 18:55:23,193 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2019-11-30 18:55:23,783 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 18:55:23,783 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-11-30 18:55:23,787 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 18:55:23,787 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-11-30 18:55:47,219 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 18:55:47,219 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-11-30 18:55:47,221 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 18:55:47,221 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-11-30 18:55:48,249 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 18:55:48,249 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-11-30 18:55:48,250 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 18:55:48,251 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-11-30 18:57:33,644 [Worker-11: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: qopper:Com.qopper:0.0.1-SNAPSHOT @ D:\QopperTestingnew\Com.qopper\pom.xml.
+2019-11-30 18:57:34,187 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 18:57:34,188 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-11-30 18:57:34,190 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 18:57:34,190 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-11-30 18:57:35,427 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 18:57:35,427 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-11-30 18:57:35,429 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 18:57:35,429 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-11-30 18:57:59,936 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 18:57:59,936 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-11-30 18:57:59,937 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 18:57:59,937 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-11-30 18:58:32,094 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 18:58:32,095 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-11-30 18:58:32,096 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 18:58:32,096 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-11-30 18:58:55,561 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 18:58:55,561 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-11-30 18:58:55,563 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 18:58:55,563 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-11-30 18:58:56,639 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 18:58:56,640 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-11-30 18:58:56,641 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 18:58:56,641 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-11-30 19:00:54,717 [Worker-11: Resolving model org.eclipse.recommenders:index::zip:0.0.0] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/photon/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:453) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:255) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:232) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:303) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.5.3.v20180609-1554.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.5.3.v20180609-1554.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:168) [org.eclipse.recommenders.models.rcp_2.5.3.v20180609-1554.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.5.3.v20180609-1554.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/photon/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:48) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:364) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:76) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:590) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:258) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:529) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
+	... 8 common frames omitted
+2019-11-30 19:06:13,666 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 19:06:13,666 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-11-30 19:06:13,668 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 19:06:13,668 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-11-30 19:06:33,866 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 19:06:33,866 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-11-30 19:06:33,869 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 19:06:33,869 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-11-30 19:08:11,537 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 19:08:11,538 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-11-30 19:08:11,538 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 19:08:11,539 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-11-30 19:08:31,446 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 19:08:31,446 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-11-30 19:08:31,448 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 19:08:31,449 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-11-30 23:17:43,445 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 23:17:43,446 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-11-30 23:17:43,448 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 23:17:43,448 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-11-30 23:18:10,689 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 23:18:10,689 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-11-30 23:18:10,690 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 23:18:10,691 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-11-30 23:20:45,398 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 23:20:45,398 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-11-30 23:20:45,401 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 23:20:45,401 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-12-01 00:07:24,234 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-01 00:07:24,234 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-12-01 00:07:24,235 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-01 00:07:24,235 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-12-01 00:07:45,511 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-01 00:07:45,511 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-12-01 00:07:45,512 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-01 00:07:45,512 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-12-01 00:09:53,685 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-01 00:09:53,685 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-12-01 00:09:53,687 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-01 00:09:53,688 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-12-01 00:12:37,180 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-01 00:12:37,181 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-12-01 00:12:37,182 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-01 00:12:37,182 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-12-01 00:15:55,238 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-01 00:15:55,238 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-12-01 00:15:55,239 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-01 00:15:55,239 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-12-01 00:16:04,007 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-01 00:16:04,007 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-12-01 00:16:04,008 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-01 00:16:04,008 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-12-01 00:16:21,891 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-01 00:16:21,891 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-12-01 00:16:21,892 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-01 00:16:21,892 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-12-01 00:16:25,352 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-01 00:16:25,353 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-12-01 00:16:25,354 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-01 00:16:25,354 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-12-01 00:20:42,696 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-01 00:20:42,696 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-12-01 00:20:42,697 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-01 00:20:42,697 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
+2019-12-01 00:21:30,318 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-01 00:21:30,318 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\main\resources
+2019-12-01 00:21:30,319 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-01 00:21:30,319 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QopperTestingnew\Com.qopper\src\test\resources
